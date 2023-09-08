@@ -1,6 +1,2 @@
 # todo-backend
-# todo-backend
-# todo-backend
-# todo-backend
-# todo-backend
-# todo-backend
+Simple backend application using fastapi
